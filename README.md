@@ -8,13 +8,13 @@ Instructions to Run the Code:
 
 2) Type "make clean" to delete old compiled .o files.
 
-3) Type "make" to compile all project files including "test_assign1_1.c" file 
+3) Type "make" to compile all project files including "test_assign2_1.c" file 
 
 
 4) Type "make run" to run "test_assign2_1.c" file.
 
 
-5) Type "make test2" to compile Custom test file "test_assign1_2.c"(added by the team for CLOCK and LFU algorithm test cases).
+5) Type "make test2" to compile Custom test file "test_assign2_2.c"(added by the team for CLOCK and LFU algorithm test cases).
 
 
 6) Type "make run2" to run "test_assign2_2.c" file. 
