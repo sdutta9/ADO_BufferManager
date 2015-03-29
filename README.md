@@ -4,7 +4,7 @@ ADO assignment2 BufferManager CS525
 
 Instructions to Run the Code:
 
-1) Go to Project root (Assignment2) using Terminal (Folder named "Alternate" contains an alternate version that does not work, it has been submitted for reference as described below)
+1) Go to Project root (Assignment2) using Terminal.
 
 2) Type "make clean" to delete old compiled .o files.
 
